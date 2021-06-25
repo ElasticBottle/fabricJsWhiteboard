@@ -46,7 +46,7 @@ export class FabricService {
       this._canvas.freeDrawingBrush.color = color;
     }
   }
-  k
+
   public eraser() {
     if (this._canvas) {
       this._canvas.freeDrawingBrush.color = "white";
