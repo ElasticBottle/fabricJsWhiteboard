@@ -1,0 +1,10 @@
+.swatch {
+  height: 0.8em;
+  width: 0.8em;
+  border-radius: 50%;
+}
+
+.canvas-wrapper {
+  border: 2px solid grey;
+  border-radius: 5px;
+}
